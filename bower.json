@@ -1,0 +1,26 @@
+{
+  "name": "confusion",
+  "description": "website for restaurant",
+  "main": "index.html",
+  "keywords": [
+    "confusion",
+    "Fusion",
+    "Restaurant"
+  ],
+  "authors": [
+    "Harika Madapathi"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "boostrap#^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
